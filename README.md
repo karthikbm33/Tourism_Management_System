@@ -28,3 +28,11 @@ For support, email karthikshet21@yahoo.com or join our Chat_kpt channel in teleg
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Karthikbm33)
 
 [![test](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)](https://kodezone.42web.io/)
+
+<h2 align="left">Hi 👋</h2>
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/karthikbm33/karthikbm33/output/snake.svg" alt="Snake animation" />
+###
+

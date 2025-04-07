@@ -31,8 +31,6 @@ For support, email karthikshet21@yahoo.com or join our Chat_kpt channel in teleg
 
 <h2 align="left">Hi 👋</h2>
 ###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/karthikbm33/karthikbm33/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/karthikbm33/karthikbm33/blob/output/github-contribution-grid-snake2.svg)
 ###
 

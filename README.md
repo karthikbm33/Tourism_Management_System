@@ -1,5 +1,5 @@
 
-# Tourism Management System hmm.gif
+# Tourism Management System
 
 Hello Everyone ✋
 
